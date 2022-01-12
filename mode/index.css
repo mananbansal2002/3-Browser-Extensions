@@ -1,0 +1,17 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+body{
+  background-image:url("https://www.contactsplus.com/wp-content/uploads/2019/09/dark-mode-blog-1536x1024.jpg");
+  padding:50px;
+  background-size:cover;
+}
+button{
+  background-color:lightgray;
+  color:black;
+  height:40px;
+  width:100px;
+  border-radius:10px;
+  margin-bottom:20px;
+}

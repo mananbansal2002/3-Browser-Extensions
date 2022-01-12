@@ -1,0 +1,28 @@
+*{
+  padding:0px;
+  margin:0;
+}
+body{
+  min-width: 200px; 
+  min-height:200px;
+  background-color:black;
+  justify-content:center;
+  display:flex;
+  padding:20px;
+}
+
+
+button
+{
+  margin-left:30vw;
+  margin-bottom:20px;
+  background-color:lightgray;
+  height:80px;
+  width:80px;
+  border-radius:100px;
+}
+img{
+  height:30px;
+  width:30px;
+}
+
